@@ -535,7 +535,7 @@ id: 272,
 image_url: "f7e32a289deca477c286362e3a1bc2bcpng",
 level: 2,
 name: "美妆母婴"
-}
+
 ]
 }
 ]
